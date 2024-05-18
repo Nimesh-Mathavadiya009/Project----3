@@ -41,3 +41,5 @@ the importance of clear API documentation.
 
 
 #NodeJS #ExpressJS #API #WebDevelopment #Coding #Learning
+
+# for installing node-modules directory RUN npm i or npm install
