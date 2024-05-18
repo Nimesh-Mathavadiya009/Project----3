@@ -1,0 +1,33 @@
+body{
+    background-color: darkgray;
+}
+
+.name{
+    text-align: center;
+    color: maroon;
+}
+
+h1{
+   text-align: center;
+}
+
+.content{
+    text-align: center;
+    color: maroon;
+}
+
+.box{
+    background-color: bisque;
+}
+
+.links{
+    text-decoration: none;
+    color: white;
+    background-color: black;
+    border-radius: 5px;
+    padding: 3px;
+}
+
+.links + form{
+    margin-top: 3px;
+}
